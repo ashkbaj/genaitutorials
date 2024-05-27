@@ -7,3 +7,4 @@ temp/
 #ignore All files from .venv and virtenv folders
 .virtenv/
 .idea/
+/.virtenv/
