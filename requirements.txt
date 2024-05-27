@@ -37,6 +37,7 @@ deprecation==2.1.0
 dirtyjson==1.0.8
 distro==1.9.0
 Django==4.2.11
+django-bootstrap-v5==1.0.11
 django-rest-framework==0.1.0
 djangorestframework==3.15.1
 dnspython==2.6.1
@@ -196,6 +197,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.9
 python-pptx==0.6.23
+python-terraform==0.10.1
 pytz==2024.1
 PyYAML==6.0.1
 pyzmq==26.0.3
