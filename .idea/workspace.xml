@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc69d547-1576-4a5a-aad1-aba2adce8dca" name="Changes" comment="entire code checkin before starting terraform">
+    <list default="true" id="cc69d547-1576-4a5a-aad1-aba2adce8dca" name="Changes" comment="git ignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,11 @@
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -75,7 +80,7 @@
     "Python.slidedeckgenerator.executor": "Run",
     "Python.summarisationdocument.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ashish1",
     "last_opened_file_path": "/Users/ashishbajpai/PycharmProjects/genaitutorials/RAG",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -271,12 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716811402338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git ignore">
+      <option name="closed" value="true" />
+      <created>1716814410565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716814410566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first part of three parts from kunal naik tutorial" />
     <MESSAGE value="entire code checkin before starting terraform" />
-    <option name="LAST_COMMIT_MESSAGE" value="entire code checkin before starting terraform" />
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
   </component>
 </project>
