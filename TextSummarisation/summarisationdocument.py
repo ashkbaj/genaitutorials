@@ -12,3 +12,8 @@ query_engine = index.as_query_engine()
 print(query_engine.query("Could you summarize the given context? Return your response which covers the key points of the text and does not miss anything important, please."))
 
 
+import bs4
+
+loader = WebBaseLoader("https://lilianweng.github.io/posts/2023-06-23-agent/")
+text = loader.load()
+print(text)

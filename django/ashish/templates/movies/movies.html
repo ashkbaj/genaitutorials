@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movies Name</title>
+    <meta charset="utf-8">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>-->
+    {% load bootstrap5 %}
+    {% bootstrap_css %}
+    {% bootstrap_javascript %}
+    <script>
+        document.addEventListener("click", function (e) {
+            if (e.target.id == "alertlink") {
+                alert("You clicked on the alert link");
+                console.log(e.target.id);
+            }
+        })
+    </script>
+</head>
+<body>
+ <!--
+ <h1 id="alertlink">This is the movie list:</h1><br><br>
+{{movies}}<hr>
+<br>
+-->
+ <h1 id="alertlink"> Shark Movies</h1>
+ <ul>
+{% for movie in movies %}
+ <li>{{movie.name}}
+{% endfor %}
+     </ul>
+<br><br>
+<div class="table-responsive">
+<table class="table table-striped">
+        <tr>
+        <th>ID</th>
+        <th>Movie Name</th>
+        <th>Release Year</th>
+        </tr>
+        {% for data in movies %}
+            <tr>
+            <th>{{data.id}}</th>
+            <th>{{data.name}}</th>
+            <th>{{data.release}}</th>
+            </tr>
+        {% endfor %}
+    </table>
+</div>
+</body>
+</html>
