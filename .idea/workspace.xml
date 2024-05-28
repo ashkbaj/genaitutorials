@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc69d547-1576-4a5a-aad1-aba2adce8dca" name="Changes" comment="all files without .virtenv">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc69d547-1576-4a5a-aad1-aba2adce8dca" name="Changes" comment="all files without .virtenv" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,34 +55,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.BagofWords.executor": "Run",
-    "Python.Geoapify.executor": "Run",
-    "Python.Sorting-QuickSort.executor": "Run",
-    "Python.app (1).executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.client.executor": "Run",
-    "Python.dynamodb.executor": "Run",
-    "Python.dynamodb_visitcount.executor": "Run",
-    "Python.groqGemmaRAG.executor": "Run",
-    "Python.insertdata.executor": "Run",
-    "Python.jsonparsing.executor": "Run",
-    "Python.kafka.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pgedge.executor": "Run",
-    "Python.redis.executor": "Run",
-    "Python.redisapi.executor": "Run",
-    "Python.searchdata.executor": "Run",
-    "Python.slidedeckgenerator.executor": "Run",
-    "Python.summarisationdocument.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "ashish1",
-    "last_opened_file_path": "/Users/ashishbajpai/PycharmProjects/genaitutorials/RAG",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.BagofWords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Geoapify.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sorting-QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dynamodb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dynamodb_visitcount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.groqGemmaRAG.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insertdata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jsonparsing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kafka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pgedge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.redis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.redisapi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.searchdata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slidedeckgenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.summarisationdocument.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ashish1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ashishbajpai/PycharmProjects/genaitutorials/RAG&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/RAG" />
