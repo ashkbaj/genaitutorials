@@ -6,8 +6,8 @@ import os
 config = {
     'provider': {
         'aws': {
-            'access_key': 'AKIAU4Z5OD65SIW34CNY',
-            'secret_key': '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',
+            'access_key': 'none',
+            'secret_key': 'none',
             'region': 'ap-south-1'
         }
     },
